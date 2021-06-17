@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "betterendforge:aeternium_leggings"
+  },
+  "addition": {
+    "item": "obliterum:obliterum_ingot"
+  },
+  "result": {
+    "item": "obliterum:obliterum_armor_leggings"
+  }
+}

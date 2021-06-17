@@ -1,0 +1,241 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ObliterumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_ingot"
+    },
+    {
+      "name": "ObliterumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_ore"
+    },
+    {
+      "name": "ObliterumBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_block"
+    },
+    {
+      "name": "ObliterumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_ore_block_recipe"
+    },
+    {
+      "name": "ObliterumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_block_ore_recipe"
+    },
+    {
+      "name": "ObliterumOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_ore_smelting"
+    },
+    {
+      "name": "ObliterumPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_pickaxe"
+    },
+    {
+      "name": "ObliterumAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_axe"
+    },
+    {
+      "name": "ObliterumSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_sword"
+    },
+    {
+      "name": "ObliterumShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_shovel"
+    },
+    {
+      "name": "ObliterumHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_hoe"
+    },
+    {
+      "name": "ObliterumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_pickaxe_recipe"
+    },
+    {
+      "name": "ObliterumAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_axe_recipe"
+    },
+    {
+      "name": "ObliterumSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_sword_recipe"
+    },
+    {
+      "name": "ObliterumShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_shovel_recipe"
+    },
+    {
+      "name": "ObliterumHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_hoe_recipe"
+    },
+    {
+      "name": "ObliterumArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ObliterumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_helmet_recipe"
+    },
+    {
+      "name": "ObliterumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_body_recipe"
+    },
+    {
+      "name": "ObliterumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_leggings_recipe"
+    },
+    {
+      "name": "ObliterumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.obliterum.obliterum_block": "Block of Obliterum",
+      "block.obliterum.obliterum_ore": "Obliterum Ore",
+      "item.obliterum.obliterum_armor_boots": "Obliterum Boots",
+      "item.obliterum.obliterum_hoe": "Obliterum Hoe",
+      "item.obliterum.obliterum_armor_chestplate": "Obliterum Chestplate",
+      "item.obliterum.obliterum_armor_helmet": "Obliterum Helmet",
+      "item.obliterum.obliterum_armor_leggings": "Obliterum Leggings",
+      "item.obliterum.obliterum_ingot": "Obliterum",
+      "item.obliterum.obliterum_axe": "Obliterum Axe",
+      "item.obliterum.obliterum_pickaxe": "Obliterum Pickaxe",
+      "item.obliterum.obliterum_shovel": "Obliterum Shovel",
+      "item.obliterum.obliterum_sword": "Obliterum Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "obliterum",
+    "modName": "Obliterum",
+    "version": "1.0.0",
+    "author": "gabet, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.obliterum",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

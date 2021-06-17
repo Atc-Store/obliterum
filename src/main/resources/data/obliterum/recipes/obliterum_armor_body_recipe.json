@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "betterendforge:aeternium_chestplate"
+  },
+  "addition": {
+    "item": "obliterum:obliterum_ingot"
+  },
+  "result": {
+    "item": "obliterum:obliterum_armor_chestplate"
+  }
+}
