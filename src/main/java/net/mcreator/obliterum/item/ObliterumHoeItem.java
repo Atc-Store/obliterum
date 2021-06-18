@@ -32,7 +32,7 @@ public class ObliterumHoeItem extends ObliterumModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 98f;
+				return 6f;
 			}
 
 			public int getHarvestLevel() {
