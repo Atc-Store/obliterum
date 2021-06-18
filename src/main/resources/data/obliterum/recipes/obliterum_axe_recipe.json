@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "betterendforge:aeternium_axe"
+    "item": "minecraft:netherite_axe"
   },
   "addition": {
     "item": "obliterum:obliterum_ingot"
