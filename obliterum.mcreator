@@ -195,18 +195,71 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "obliterum_armor_boots_recipe"
+    },
+    {
+      "name": "Enlightenment",
+      "type": "enchantment",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enlightenment"
+    },
+    {
+      "name": "EnlightenmentProcedure",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enlightenment_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Obliterum",
+      "type": "tab",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obliterum"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "enchantment.obliterum.enlightenment": "Enlightenment",
       "block.obliterum.obliterum_block": "Block of Obliterum",
       "block.obliterum.obliterum_ore": "Obliterum Ore",
       "item.obliterum.obliterum_armor_boots": "Obliterum Boots",
       "item.obliterum.obliterum_hoe": "Obliterum Hoe",
       "item.obliterum.obliterum_armor_chestplate": "Obliterum Chestplate",
       "item.obliterum.obliterum_armor_helmet": "Obliterum Helmet",
+      "itemGroup.tabobliterum": "Obliterum",
       "item.obliterum.obliterum_armor_leggings": "Obliterum Leggings",
       "item.obliterum.obliterum_ingot": "Obliterum",
       "item.obliterum.obliterum_axe": "Obliterum Axe",

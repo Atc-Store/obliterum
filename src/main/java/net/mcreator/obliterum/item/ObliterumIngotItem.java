@@ -5,10 +5,10 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.obliterum.itemgroup.ObliterumItemGroup;
 import net.mcreator.obliterum.ObliterumModElements;
 
 @ObliterumModElements.ModElement.Tag
@@ -25,7 +25,7 @@ public class ObliterumIngotItem extends ObliterumModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(ObliterumItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("obliterum_ingot");
 		}
 

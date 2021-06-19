@@ -8,7 +8,7 @@
     "name": "Obliterum Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Obliterum"
     },
     "toolType": "Sword",
     "harvestLevel": 14,

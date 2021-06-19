@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "betterendforge:aeternium_pickaxe"
+    "item": "minecraft:netherite_pickaxe"
   },
   "addition": {
     "item": "obliterum:obliterum_ingot"

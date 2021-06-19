@@ -8,7 +8,7 @@
     "name": "Obliterum",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Obliterum"
     },
     "stackSize": 64,
     "enchantability": 0,

@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "obliterum_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Obliterum"
     },
     "armorTextureFile": "obliterum",
     "helmetName": "Obliterum Helmet",
