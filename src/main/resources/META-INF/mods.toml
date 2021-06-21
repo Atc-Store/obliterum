@@ -1,14 +1,17 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="obliterum"
 version="1.0.0"
 displayName="Obliterum"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Cobalt for any textures other than default mcreator textures."
 displayURL="https://mcreator.net"
-authors="gabet, MCreator"
+authors="Raeis_Eikr, Cobalt"
+description='''
+Custom mod created for use with Obliterum server. WIP
+'''
 
 [[dependencies.obliterum]]
     modId="minecraft"

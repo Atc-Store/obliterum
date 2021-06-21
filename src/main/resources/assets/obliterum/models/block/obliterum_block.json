@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "obliterum:blocks/obliterum_ore_block",
-    "particle": "obliterum:blocks/obliterum_ore_block"
+    "all": "obliterum:blocks/obliterum_block2",
+    "particle": "obliterum:blocks/obliterum_block2"
   }
 }
