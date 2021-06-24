@@ -120,7 +120,7 @@ public class ObliterumOreBlock extends ObliterumModElements.ModElement {
 				}
 			};
 			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 8)).range(25)
-					.square().func_242731_b(10);
+					.square().func_242731_b(1);
 			event.getRegistry().register(feature.setRegistryName("obliterum_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("obliterum:obliterum_ore"), configuredFeature);
 		}

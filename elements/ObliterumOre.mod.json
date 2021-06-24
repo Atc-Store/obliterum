@@ -131,7 +131,7 @@
         "value": "Blocks.CRYING_OBSIDIAN"
       }
     ],
-    "frequencyPerChunks": 10,
+    "frequencyPerChunks": 1,
     "frequencyOnChunk": 8,
     "minGenerateHeight": 15,
     "maxGenerateHeight": 25
